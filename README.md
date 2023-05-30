@@ -1,6 +1,6 @@
-# responsi_prak_tpm
+# Responsi Praktikum Teknologi & Pemrograman Mobile IF-B
 
-A new Flutter project.
+123200023 - Novia Adelia
 
 ## Getting Started
 
